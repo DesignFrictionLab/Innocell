@@ -1,4 +1,4 @@
-# Innocell Bioreactor
+# About Innocell
 
 InnoCell envisions the future of glocal production by means of growing design to develop nutritious foods and materials through the fermentation of underused organic byproducts.
 
